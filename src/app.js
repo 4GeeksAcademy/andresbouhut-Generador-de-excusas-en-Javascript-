@@ -5,9 +5,7 @@ import "./style.css";
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
-function primerElementoArray(arr1) {
-  return arr1[0]
-}
+
 
 let createExcuse = ()=>{
   let primerElementoArray = (array) => {
